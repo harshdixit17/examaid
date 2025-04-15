@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Class Test 1 - Semester 1</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 60px;
+      background-color: #fffbea;
+    }
+
+    h1 {
+      color: #222;
+      margin-bottom: 40px;
+    }
+
+    .pdf-links {
+      margin-top: 30px;
+    }
+
+    .pdf-link {
+      font-size: 1.2em;
+      color: #ff6f61;
+      text-decoration: none;
+      display: block;
+      margin: 15px 0;
+    }
+
+    .pdf-link:hover {
+      color: #e65c4f;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Class Test 1 - Semester 1</h1>
+
+  <div class="pdf-links">
+    <a href="https://drive.google.com/file/d/your_pdf_link_here/view" class="pdf-link" target="_blank">Download PDF: Class Test 1 Notes</a>
+    <a href="https://drive.google.com/file/d/another_pdf_link_here/view" class="pdf-link" target="_blank">Download PDF: Class Test 1 Practice</a>
+  </div>
+
+</body>
+</html>
